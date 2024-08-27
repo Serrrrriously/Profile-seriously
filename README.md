@@ -2,13 +2,20 @@
 
 
 
-
-I am Zhu Tao, come from China. I am now studying in LAB University of Applied Sciences, majoring in IIT. I try to use this GitHub profile to save all my learning material and skills.
-
 # heading test
+**I am Zhu Tao, come from China. **
+
 ## tiny heading test
+I am now studying in LAB University of Applied Sciences, majoring in IIT. 
+
 ### tinier heading test
+I try to use this GitHub profile to save all my learning material and skills.
+
 #### less tinier heading test
+~~Just a text for syntax.~~
+
+
+
 
 
 
