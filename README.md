@@ -1,4 +1,4 @@
-# Profile-seriously
+# Profile for seriously
 
 
 
