@@ -3,10 +3,10 @@
 
 
 # heading test
-**I am Zhu Tao, come from China. **
+**I am Zhu Tao, come from China.**
 
 ## tiny heading test
-I am now studying in LAB University of Applied Sciences, majoring in IIT. 
+***I am now studying in LAB University of Applied Sciences, majoring in IIT.***
 
 ### tinier heading test
 I try to use this GitHub profile to save all my learning material and skills.
