@@ -18,7 +18,7 @@
 
 **I like just lying by the riverside or lakeside taking a nap, the sunshine and wind is apparently great.**
 
-# Hobby
+# Website
 
 I have no personal website now, I can just show you my [github mainpage](https://github.com/Serrrrriously) by this link.
 
