@@ -31,7 +31,7 @@ I have no personal website now, I can just show you my [github mainpage](https:/
 
 1. Honestly, It is my first time to do teamwork in classroom, which is special for me. I haven't done that in China. I think it's a better way to slove problems rather than just sitting alone at a certain place doing the paper. Everyone has different ideas, which will help each one.
 2. I have some ideas for the topic, but it seems hard for me to express my whole meaning. I am not that shy but have trouble in listening and speaking English. I came up with a outline plan and a first draft of a radial map, and I can and need do more. I should pay more attention to my spoken English than IT I think in the first semester.
-3. My teammates are from different countries, but they all speak fluent English, and they gave me enough patience for my expression, I appreciate it very much. They usually had some special ideas in details. It is a awesome project to build a sauna rooom near the sea, you can just take a sauna after swimming, or swimming after sauna... They three have open minds, which I lack. I will learn more from the classmates.
+3. My teammates are from different countries, but they all speak fluent English, and they gave me enough patience for my expression, I appreciate it very much. They usually had some special ideas in details. It is a awesome project to build a sauna rooom near the sea, you can just take a sauna after swimming, or swimming after sauna... They three have open minds, which I lack. I will learn more from the classmates in the future.
 
 <!--
 
